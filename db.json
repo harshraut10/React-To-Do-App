@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "maths homework",
+      "day": "22/7/23"
+    },
+    {
+      "id": 2,
+      "name": "Home work",
+      "day": "7/8/23"
+    },
+    {
+      "id": 3,
+      "name": "Do paperwork",
+      "day": "4/8/23"
+    }
+  ]
+}

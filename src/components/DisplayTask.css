@@ -1,0 +1,7 @@
+.task{
+   background-color:rgb(37, 37, 63);
+  margin: 0 auto;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
